@@ -1,0 +1,6 @@
+{
+  "name": "Hole Punch Notification Light Studio",
+  "description": "منصة تفاعلية متكاملة لتحليل وهندسة معمارية إضاءة ثقب الكاميرا (Hole Punch Notification Light) في أندرويد مع محاكي حي ومولد أكواد Kotlin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
